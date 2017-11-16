@@ -6,11 +6,11 @@ spName := "master/spark-stemming"
 
 version := "0.1.2"
 
-sparkVersion := "1.6.1"
+sparkVersion := "2.1.0"
 
-scalaVersion := "2.10.6"
+scalaVersion := "2.11.8"
 
-crossScalaVersions := Seq("2.10.6", "2.11.8")
+//crossScalaVersions := Seq("2.10.6", "2.11.8")
 
 spAppendScalaVersion := true
 
